@@ -1,8 +1,8 @@
 ## Hi!
 
 15 years old IT Student from Vienna, Austria 🇦🇹  
-Very interested in Machine Learning, especially the theory behind it.  
-Currently working on **kinibert-learn**, my personal mini-clone of scikit-learn, written entirely from scratch in Python (NumPy + Numba only).
+Very interested in Machine Learning/Deep Learning, especially the theory behind it.  
+Currently working on **KiniTensor**, my personal small AI library, written entirely from scratch in Python (NumPy only).
 
 ## What I am into
 - The math behind ML, what actually happens when training a model
@@ -21,8 +21,7 @@ Currently Learning:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Projects
-- [**Kinibert-learn:**](https://github.com/kinibert/kinibert-learn) Minimal scikit-learn clone written from scratch
-- **Planned: KiniTorch:** Minimal pytorch/tensorflow clone written from scratch, including a high-level API similar to Keras
+- [**KiniTensor:**](https://github.com/kinibert/kinitensor) Small AI library written from scratch
 
 ### Status
 Looking for a **4-week Summer Internship (summer 2027)** in ML / Data Science around Vienna area.
